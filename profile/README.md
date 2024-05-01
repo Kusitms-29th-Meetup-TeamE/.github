@@ -93,8 +93,9 @@
 <br><br>
 
 ## **🔍 System Architecture**
+<img width="756" alt="image" src="https://github.com/Kusitms-29th-Meetup-TeamE/.github/assets/129354455/c8d195c4-1ab9-40ec-96dc-fbe0fbdf0c50">
 
-// 시스템 아키텍쳐 이미지를 넣어주세요
+
 <br><br>
 
 ## **📜 ERD 설계도**
