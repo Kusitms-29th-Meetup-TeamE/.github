@@ -104,12 +104,12 @@
 
 ## **💻 Technology**
 
-- Android
+- Web
   - ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square&logo=zustand)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=tanstack)
+  - ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=tanstack)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
 
