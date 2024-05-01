@@ -100,7 +100,8 @@
 
 ## **📜 ERD 설계도**
 
-// ERD 설계도 이미지를 넣어주세요
+<img width="1083" alt="image" src="https://github.com/Kusitms-29th-Meetup-TeamE/.github/assets/129354455/a46a14fd-e75f-482c-a6b3-76282d06ad91">
+
 <br><br>
 
 ## **💻 Technology**
