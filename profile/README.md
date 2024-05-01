@@ -93,7 +93,8 @@
 <br><br>
 
 ## **🔍 System Architecture**
-<img width="756" alt="image" src="https://github.com/Kusitms-29th-Meetup-TeamE/.github/assets/129354455/c8d195c4-1ab9-40ec-96dc-fbe0fbdf0c50">
+<img width="721" alt="image" src="https://github.com/Kusitms-29th-Meetup-TeamE/.github/assets/129354455/892bf943-5d2a-476a-a051-0564ef4f864f">
+
 
 
 <br><br>
