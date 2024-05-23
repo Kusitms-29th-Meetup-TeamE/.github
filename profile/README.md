@@ -360,11 +360,13 @@ https://www.ddoba.site
 
 # **🔍 System Architecture**
 
-![image](https://github.com/nohy6630/29th_Semi_README/assets/129354455/d2702cab-e7f6-4428-a9aa-2f144b68e816)
+<img width="808" alt="또바아키텍처" src="https://github.com/Kusitms-29th-Meetup-TeamE/.github/assets/129354455/e03df336-85e1-4526-9c9a-f978f49cfcb9">
+
 
 # **📜 ERD 설계도**
 
-![image](https://github.com/nohy6630/29th_Semi_README/assets/129354455/ad8f1306-6d95-4c5e-a60a-10eee2ad63ec)
+![또바 erd](https://github.com/Kusitms-29th-Meetup-TeamE/.github/assets/129354455/f62ccb35-ae88-45fd-9038-b14a603bfe16)
+
 
 # **💻 Technology**
 
