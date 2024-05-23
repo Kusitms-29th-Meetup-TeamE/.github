@@ -1,3 +1,7 @@
+**배포 URL**
+https://www.ddoba.site
+
+
 **🌟 또바**
 
 ![KakaoTalk_Photo_2024-05-05-23-12-45](https://github.com/nohy6630/29th_Semi_README/assets/129354455/bdbb43c6-bde2-4022-986f-c104861d17e1)
